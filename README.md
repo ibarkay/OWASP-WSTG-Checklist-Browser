@@ -14,6 +14,7 @@ This project is a PyQt6 GUI application that allows users to search, browse, and
 
 🔗 Clickable Reference Links – Open OWASP documentation directly.
 
+
 📌 Formatted Parsing of OWASP Pages – Extracts structured content such as:
 
 📌 Summary
@@ -24,9 +25,14 @@ This project is a PyQt6 GUI application that allows users to search, browse, and
 
 🛡️ Remediation
 
+
 🛠 Tools
+
 🖱️ Keyboard Navigation – Browse the checklists using arrow keys.
+
 🛠️ Installation
+
+
 
 Clone the repository:
 ```bash
