@@ -5,16 +5,25 @@ This project is a PyQt6 GUI application that allows users to search, browse, and
 ✨ Features
 
 ✅ Search Bar – Instantly search for checklist items as you type.
+
 📂 Category Filter – Select specific checklist categories.
+
 📜 Checklist View – Displays a list of available checklist items.
+
 📋 Detailed View – Shows detailed information about each checklist item.
+
 🔗 Clickable Reference Links – Open OWASP documentation directly.
+
 📌 Formatted Parsing of OWASP Pages – Extracts structured content such as:
 
 📌 Summary
+
 🔍 How to Test
+
 🎯 Test Objectives
+
 🛡️ Remediation
+
 🛠 Tools
 🖱️ Keyboard Navigation – Browse the checklists using arrow keys.
 🛠️ Installation
