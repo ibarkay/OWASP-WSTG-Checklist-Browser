@@ -1,4 +1,5 @@
 🔍 OWASP WSTG Checklist Browser
+
 This project is a PyQt6 GUI application that allows users to search, browse, and view details from the OWASP Web Security Testing Guide (WSTG) checklists. The data is fetched from the official OWASP checklist JSON.
 
 ✨ Features
@@ -17,12 +18,11 @@ This project is a PyQt6 GUI application that allows users to search, browse, and
 🖱️ Keyboard Navigation – Browse the checklists using arrow keys.
 🛠️ Installation
 Clone the repository:
-
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/YOUR_USERNAME/owasp-wstg-gui.git  
-cd owasp-wstg-gui  
+cd owasp-wstg-gui
+```
+ 
 Create a virtual environment (optional but recommended):
 
 bash
